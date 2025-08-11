@@ -28,7 +28,7 @@
 ```
 2. Установить зависимость vk_api
 ```
-pip install vk_api pandas
+pip install vk_api
 ```
 3. Получить токен доступа
 - Перейдти на страницу https://vkhost.github.io/
